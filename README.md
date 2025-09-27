@@ -86,7 +86,10 @@ Here is the output
 
 <img width="949" height="186" alt="output of distribution" src="https://github.com/user-attachments/assets/9753adb5-d8fe-4466-aae5-18b36b9f66f9" />
 
-
+---
+ RECOMMENDATIONS
+ 
+This project helped uncover valuable insights from sales and customer data using SQL analytics. By ranking top customers, tracking revenue trends, analyzing growth, and segmenting customers, I gained a clearer picture of where the business is performing well and where it can improve.
 ---
 
 ### “All sources were properly cited. Implementations and analysis represent original work. No AIgenerated content was copied without attribution or adaptation
